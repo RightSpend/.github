@@ -1,0 +1,36 @@
+# Notes from the developer
+
+## How to start testing
+[Are there any specific settings, external APIs, or knowledge needed for testing?]
+
+## Things to watch out for / Gotchas
+[What is most likely to trip-up or confuse a tester?]
+
+## Links to relevant documentation
+[What new docs have you created? What existing (external?) docs have you used?]
+
+# Development concerns
+(If you don't/can't tick any of the items below, please include an explication)
+
+## Pre-development
+- [ ] I have created/updated an ADR which explains the changes I intend to make
+- [ ] I have conducted a 0% code review with the team
+
+## Post-development
+- [ ] I have reviewed the ADR post-development, and am happy it is still correct, or have updated it accordingly
+- [ ] I have made appropriate changes to the development seed data related to this change
+- [ ] I have filled in the "Notes from the developer" section
+- [ ] I have added or updated any relevant documentation (readme, documentation library, etc..)
+- [ ] I have added new tests/specs where relevant and not broken any existing ones
+- [ ] I have updated the `CHANGELOG` accordingly
+
+# QA/QC concerns
+
+## Testing
+- [ ] I have read the ADR and approve its contents
+- [ ] I have verified the acceptance criteria is met
+- [ ] I have tested associated features to ensure nothing else is broken
+
+
+---------------
+Pull request template V1.6
